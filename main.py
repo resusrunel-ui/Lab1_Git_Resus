@@ -5,3 +5,6 @@ print("Class Section: BSECE-1C")
 print("Login Feature Enabled")
 
 print("Dragosta din ei")
+
+print("Asan nyo siya dalahin")
+
